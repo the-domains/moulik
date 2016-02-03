@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.412162
+  lightness: 0.258445
+  rhythmicContrast: 0.603332
+  saturation: 0.414695
+cta: {}
+layout_spectrum: 0.893581
+name: moulik
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.338682

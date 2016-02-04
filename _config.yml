@@ -1,19 +1,4 @@
-name: moulik
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.338682
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#3C493F'
@@ -21,11 +6,14 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.3125
-  lightness: 0.75
-  saturation: 0.4375
-  rhythmicContrast: 0.603332
+  brandStrength: 0
+  lightness: 0.865709
+  rhythmicContrast: 0.197635
+  saturation: 0.288006
+cta: {}
+layout_spectrum: 1
+name: moulik
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.338682
